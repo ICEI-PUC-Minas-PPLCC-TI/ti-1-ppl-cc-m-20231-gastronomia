@@ -12,10 +12,10 @@
 
 >
 > Os membros do grupo são: 
-> - João Pedro Mendes Monteiro
-> - Matteus Gillis Franco Amaral
 > - Breno Moreira Cortes
+> - João Pedro Mendes Monteiro
 > - Luis Felipe Almeida
+> - Matteus Gillis Franco Amaral
 
 # Estrutura do Documento
 
