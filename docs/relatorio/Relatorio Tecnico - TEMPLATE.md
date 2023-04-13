@@ -190,16 +190,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Receitas | ALTA | 
+|RF-002| Menu de navegação   | ALTA |
+|RF-003| Criação de perfil de usuário   | ALTA |
+|RF-004| Aba de comunidade   | ALTA |
+|RF-005| Comentários   | MÉDIA |
+|RF-006| Avaliação de receitas   | MÉDIA |
+|RF-007| Filtro na barra de pesquisa   | MÉDIA |
+|RF-008| Painel com as receitas mais populares   | MÉDIA |
+|RF-009| Aba de favoritos   | BAIXA |
+|RF-010| Informações da receita como: Gasto, tempo, valor nutricional, dificuldade e rendimento   | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Responsividade para dispositivos móveis | ALTA | 
+|RNF-002| Usuabilidade | MÉDIA |
+|RNF-003| Confiabilidade | MÉDIA |
+|RNF-004| Desempenho, processar requisições do usuário em no máximo 3s | BAIXO |
+
+
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -231,6 +243,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| Dificuldade de trabalhar em grupo        |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
