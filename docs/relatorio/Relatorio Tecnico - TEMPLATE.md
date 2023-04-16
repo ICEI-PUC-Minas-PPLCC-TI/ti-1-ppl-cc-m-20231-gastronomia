@@ -52,66 +52,35 @@
 
 ## Problema
 
-...... Falta de referência culinária  ......
+ Falta de referência culinária  
 
+ Aprender a cozinhar alimentos saudáveis é um desafio para muitas pessoas. A principal  é a falta de suporte e informações dispersas em diferentes fontes. Além disso, muitas vezes falta incentivo de uma comunidade que ofereça suporte de incentivos verbais  e de dicas práticas  de como ter uma alimentação saudável.
+
+Para piorar a situação, pessoas que precisam de um controle nutricional mais restrito, como os fisiculturistas e outros atletas de alto desempenho , podem enfrentar desafios adicionais. Eles precisam não apenas saber cozinhar, mas também entender a composição nutricional dos alimentos e como combiná-los adequadamente para atender às suas necessidades específicas de macronutrientes.
+
+Para superar essas barreiras, é fundamental encontrar fontes confiáveis de informação e uma comunidade de apoio que compartilhe os mesmos interesses e desafios. Isso pode incluir grupos de culinária e nutrição, fóruns online e redes sociais especializadas.
+
+Além disso, é importante buscar a ajuda de profissionais especializados em nutrição ou culinária. Eles podem oferecer orientações específicas para as necessidades individuais de cada pessoa e ajudá-las a desenvolver habilidades culinárias e alcançar uma alimentação saudável e balanceada.
+
+Por fim, é importante lembrar que aprender a cozinhar alimentos saudáveis é um processo contínuo e que exige paciência, prática e persistência. Com o suporte adequado e a determinação para alcançar seus objetivos, é possível superar esses desafios e desenvolver habilidades culinárias que contribuam para uma vida mais saudável e equilibrada.
 > 
-> 
-> 
-> 
-> 
-> 
->
-> 
-> 
-> 
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
 O objetivo do trabalho é criar um site que ajuda pessoas que buscam se alimentar de maneira mais saudável .A aplicação busca  criar uma plataforma para ajudar iniciantes a cozinharem receitas saudáveis. Em paralelo,  terá ferramentas específicas para atletas de alto desempenho que precisam de um controle nutricional rigoroso, em especial fisicultutistas.Também, pretendemos criar uma aba comunidade que  irá usar mecanismo de redes sociais para incentivar os usuários a se manterem no caminho.
 Uma alimentação saudável é o habito mais importante para promover a saúde humana, especialmente na era atual em que há centenas de opções não saudáveis. Há também uma dificuldade de encontrar sugestões de boas receitas para iniciantes. Desse modo, é crucial haver uma aplicação que resolva esse problema. Essa dificuldade é exacerbada para pessoas que precisam de um controle nutricional rigoroso como atletas, em especial fisiculturistas, cuja alimentação é essencial para se manterem competitivos. Um enorme problema para quem busca se alimentar de maneira melhor é manter esse hábito, visto que 90% das pessoas que perdem peso ganham ele de volta por não seguirem a dieta. Assim, criaremos uma aba comunidade que irá ter incentivos diários e um gerará senso de pertencimento, que é usado em redes sociais para manter seus usuários ativos.
 > 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Uma alimentação saudável é o habito mais importante para promover a saúde humana, especialmente na era atual em que há centenas de opções não saudáveis. Há também uma dificuldade de encontrar sugestões de boas receitas para iniciantes. Desse modo, é crucial haver uma aplicação que resolva esse problema. Essa dificuldade é exacerbada para pessoas que precisam de um controle nutricional rigoroso como atletas, em especial fisiculturistas, cuja alimentação é essencial para se manterem competitivos. Um enorme problema para quem busca se alimentar de maneira melhor é manter esse hábito, visto que 90% das pessoas que perdem peso ganham ele de volta por não seguirem a dieta. Assim, criaremos uma aba comunidade que irá ter incentivos diários e um gerará senso de pertencimento, que é usado em redes sociais para manter seus usuários ativos.
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Estimamos que a principal base de usuários será jovens que mudaram recentemente para casa própria, devido ao grande tamanho populacional  desse grupo. Prevemos que o nosso produto será extensivamente usado na comunidade de atlteas,especialmente no fisiculturismo, por conta da grande necessidade de controle da alimentação desse grupo. Também pensamos que uma grande quantidade do nosso público será de pessoas que buscam mudar de estilo de vida para um mais saudável .
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
@@ -145,7 +114,9 @@ Uma alimentação saudável é o habito mais importante para promover a saúde h
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](images/persona.png)
+>
+> ![Thomas_persona](images/Thomas_persona.png)
+> ![Felipe_persona](images/Felipe_persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
@@ -250,17 +221,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+>![New_Collection_1](images/New_Collection_1.png)
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
 > funcionais e histórias de usuário abordados nas [Especificações do
 > Projeto](#especificações-do-projeto).
->![New_Collection_1](images/New_Collection_1.png)
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+![NewCollection](images/NewCollection.png)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
@@ -272,14 +242,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
-> **Exemplo**:
-> 
-> ![NewCollection](images/NewCollection.png)
-
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+>![New_Collection_3](images/New_Collection_3.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -292,10 +258,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 > 
-> **Exemplo**:
-> 
->![New_Collection_3](images/New_Collection_3.png)
-
 
 # Metodologia
 
@@ -319,7 +281,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 | Membros  | Papel              |Tarefas |
 |-----------|-------------------------|---------------|
@@ -337,7 +298,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
