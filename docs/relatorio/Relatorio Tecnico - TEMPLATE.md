@@ -81,14 +81,6 @@ Uma alimentação saudável é o habito mais importante para promover a saúde h
 
 Estimamos que a principal base de usuários será jovens que mudaram recentemente para casa própria, devido ao grande tamanho populacional  desse grupo. Prevemos que o nosso produto será extensivamente usado na comunidade de atlteas,especialmente no fisiculturismo, por conta da grande necessidade de controle da alimentação desse grupo. Também pensamos que uma grande quantidade do nosso público será de pessoas que buscam mudar de estilo de vida para um mais saudável .
 
- 
-# Especificações do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas, Empatia e Proposta de Valor
 
@@ -117,6 +109,7 @@ Estimamos que a principal base de usuários será jovens que mudaram recentement
 >
 > ![Thomas_persona](images/Thomas_persona.png)
 > ![Felipe_persona](images/Felipe_persona.png)
+> ![Carol_persona](images/Carol_persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
@@ -261,7 +254,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso grupo realizou o trabalho em conjunto no Discord. Nós fizemos o Design Thinking em conjunto em uma plataforma online em que todos poderiam editar o documento (Google Docs) e depois cada um um foi designado com tarefas específicas da sprint. No final, um membro foi responsável por juntar todas as partes e montar o template no GitHub.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
