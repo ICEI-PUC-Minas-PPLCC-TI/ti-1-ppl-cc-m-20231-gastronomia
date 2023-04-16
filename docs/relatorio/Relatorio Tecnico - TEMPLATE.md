@@ -72,13 +72,8 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+O objetivo do trabalho é criar um site que ajuda pessoas que buscam se alimentar de maneira mais saudável .A aplicação busca  criar uma plataforma para ajudar iniciantes a cozinharem receitas saudáveis. Em paralelo,  terá ferramentas específicas para atletas de alto desempenho que precisam de um controle nutricional rigoroso, em especial fisicultutistas.Também, pretendemos criar uma aba comunidade que  irá usar mecanismo de redes sociais para incentivar os usuários a se manterem no caminho.
+Uma alimentação saudável é o habito mais importante para promover a saúde humana, especialmente na era atual em que há centenas de opções não saudáveis. Há também uma dificuldade de encontrar sugestões de boas receitas para iniciantes. Desse modo, é crucial haver uma aplicação que resolva esse problema. Essa dificuldade é exacerbada para pessoas que precisam de um controle nutricional rigoroso como atletas, em especial fisiculturistas, cuja alimentação é essencial para se manterem competitivos. Um enorme problema para quem busca se alimentar de maneira melhor é manter esse hábito, visto que 90% das pessoas que perdem peso ganham ele de volta por não seguirem a dieta. Assim, criaremos uma aba comunidade que irá ter incentivos diários e um gerará senso de pertencimento, que é usado em redes sociais para manter seus usuários ativos.
 > 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -164,8 +159,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Estudante  | Aprender a cozinhar           | Se tornar mais independente               |
+|Estudante       | Aprender a cozinhar                  | Aproveitar melhor o seu tempo livre deixando de lado as telas e fazer algo que tenha interesse. |
+|Estudante       | Aprender a cozinhar                  | Produzir sua própria comida vegana já que ela não é tão fácil de encontrar e é bem cara. |
+|Professor       | Aprender a cozinhar                  | Usar o tempo para cozinhar com seu filho |
+|Atleta          | Aprender a cozinhar                  |  produzir suas próprias comidas facilitando o controle das calorias |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -323,8 +321,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+| Membros  | Papel              |Tarefas |
+|-----------|-------------------------|---------------|
+|João Pedro Mendes  | Scrum Master |  Definir e garantir que o time esteja seguindo as práticas do Scrum  | 
+|Matteus Gillis | Product owner | Definir a visão do produto e priorizar o Backlog da Sprint. | 
+|Luis Felipe  | Desenvolvedor |  Desenvolver a sprint | 
+|Breno Moreira | Desenvolvedor | Desenvolver a sprint |
+
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
+
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
@@ -336,10 +341,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Google Docs |  https://docs.google.com | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Criação dos Wireframes | Canva |  https://www.canva.com/ | 
+|Criação das Personas | Avatar Maker | https://avatarmaker.com/ |
+|Criação de Templates | Pixlr | https://pixlr.com/br/ |
+|Comunicação | Discord | https://discord.com/ |
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
