@@ -87,7 +87,8 @@ Estimamos que a principal base de usuários será jovens que mudaram recentement
 ![Thomas_persona](images/Thomas_persona.png)
 ![Felipe_persona](images/Felipe_persona.png)
 ![Carol_persona](images/Carol_persona.png)
-![Cimage](images/image.png)
+![image](images/image.png)
+![image2](images/image2.png)
 
 
 > Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
