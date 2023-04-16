@@ -1,11 +1,7 @@
 # Mig Cook
-`TÍTULO DO PROJETO`  
-
-......  COLOQUE AQUI O SEU TEXTO ......
+`Mig cook`  
 
 `Ciência da computação` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Participantes
 
