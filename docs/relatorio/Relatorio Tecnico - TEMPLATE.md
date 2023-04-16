@@ -1,4 +1,4 @@
-# Informações do Projeto
+# Mig Cook
 `TÍTULO DO PROJETO`  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
