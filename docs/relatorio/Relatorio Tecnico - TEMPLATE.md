@@ -84,7 +84,10 @@ Estimamos que a principal base de usuários será jovens que mudaram recentement
 
 ## Personas, Empatia e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
+![Thomas_persona](images/Thomas_persona.png)
+![Felipe_persona](images/Felipe_persona.png)
+![Carol_persona](images/Carol_persona.png)
+![Cimage](images/image.png)
 
 
 > Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
@@ -103,13 +106,6 @@ Estimamos que a principal base de usuários será jovens que mudaram recentement
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
 > 
-> 
-> **Exemplo de Persona**
-> 
->
-> ![Thomas_persona](images/Thomas_persona.png)
-> ![Felipe_persona](images/Felipe_persona.png)
-> ![Carol_persona](images/Carol_persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
