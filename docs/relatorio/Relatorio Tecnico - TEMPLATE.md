@@ -258,6 +258,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > foram elaboradas de forma a atender os requisitos funcionais, não
 > funcionais e histórias de usuário abordados nas [Especificações do
 > Projeto](#especificações-do-projeto).
+>![New_Collection_1](images/New_Collection_1.png)
 
 ## User Flow
 
@@ -275,7 +276,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/NewColetion.png)
+> ![NewCollection](images/NewCollection.png)
 
 
 ## Wireframes
@@ -295,7 +296,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+>![New_Collection_3](images/New_Collection_3.png)
 
 
 # Metodologia
