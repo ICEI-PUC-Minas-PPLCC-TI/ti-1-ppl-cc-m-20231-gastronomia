@@ -7,7 +7,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 * João Pedro Mendes Monteiro
 * Matteus Gillis Franco Amaral
 * Brenoca Moreira Cortes
-* Luis Punhe Almeida
+* Luis Felipe Almeida
 
 ## Professores responsáveis
 
